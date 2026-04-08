@@ -33,7 +33,7 @@ body {
 	position: fixed;
 	top: 0;
 	left: 0;
-	width: 100%;
+
 	height: 70px;
 	display: flex;
 	align-items: center;
@@ -106,6 +106,7 @@ footer {
 
 #fb {
 	background: #0004ff;
+	color: #ffffff;
 	padding: 12px;
 	border-radius: 10px 0 0 0;
 }
@@ -116,7 +117,7 @@ footer {
 	color: #ff0000;
 }
 
-#twitter {
+#insta {
 	background: linear-gradient(to top, rgb(255, 0, 0), rgb(212, 0, 255));
 	padding: 12px;
 	color: #ffffff;
@@ -129,6 +130,12 @@ footer {
 	color: #f8f8f8;
 }
 
+#twitter {
+	background: #ffffff;
+	padding: 12px;
+	color: #0123fc;
+
+}
 
 .Shape {
 	bottom: 35%;

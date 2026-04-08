@@ -76,6 +76,7 @@ body {
 }
 
 footer {
+
 	width: 100%;
 	height: 35px;
 	display: flex;
@@ -91,7 +92,17 @@ footer {
 
 }
 
+#fb,
+#yt,
+#twitter,
+#tiktok {
+	color: #ffffff;
+	font-size: 20px;
+	transition: 0.5s;
+}
+
 #fb:hover {
+	text-decoration: none;
 	color: #ffffff;
 	cursor: pointer;
 	width: 20px;

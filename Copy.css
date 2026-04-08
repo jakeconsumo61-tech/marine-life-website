@@ -91,6 +91,15 @@ footer {
 
 }
 
+#fb,
+#yt,
+#twitter,
+#tiktok {
+	color: #ffffff;
+	font-size: 20px;
+	transition: 0.5s;
+}
+
 #fb:hover {
 	color: #1b2cff;
 	transform: scale(1.3);

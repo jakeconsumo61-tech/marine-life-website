@@ -593,6 +593,15 @@ footer {
 	z-index: 22;
 }
 
+#fb,
+#yt,
+#twitter,
+#tiktok {
+	color: #ffffff;
+	font-size: 20px;
+	transition: 0.5s;
+}
+
 #fb:hover {
 	color: #ffffff;
 	transform: scale(1.3);
